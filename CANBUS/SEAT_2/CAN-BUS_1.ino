@@ -1,18 +1,5 @@
-//##############################################################################################################  
+// FILE BORROWED FROM https://hackaday.io/project/6288-volkswagen-can-bus-gaming
 
-//Volkswagen CAN BUS Gaming
-//Test Sketch v3.0
-//(C) by Leon Bataille 2015-2016
-//Hackaday Project Page: https://hackaday.io/project/6288-volkswagen-can-bus-gaming
-
-//Sketch information #DO NOT REMOVE!
-String game = "VW Static v3.0";
-String vendor = "Leon Bataille";
-//END Sketch information
-
-//For individual setup scroll down to the section MAIN CONFIGURATION
-
-//##############################################################################################################  
 
 //Libraries
 #include <mcp_can.h>            //CAN Bus Shield Compatibility Library
